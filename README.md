@@ -2,10 +2,11 @@
 I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Computer Science and Biomedical Engineering. 
 
 ### Skills
+<p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Javascript?style=flat-square&logo=javascript&logoColor=white&label=Javascript" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-
+</p>
 
 <!--
 **pxb408/pxb408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
