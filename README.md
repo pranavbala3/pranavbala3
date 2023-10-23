@@ -3,7 +3,7 @@ I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Comp
 
 ### Skills
 <p>
-<img alt="Java" src="https://img.shields.io/badge/-Java-8A2BE2?style=flat-square&" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-509EE3?style=flat-square&" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-43853D?style=flat-square&logo=python&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
