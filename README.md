@@ -19,6 +19,7 @@ I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Comp
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white"" />
 <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"" />
 <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white"" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"" />
 </p>
 
 <!--
@@ -38,4 +39,4 @@ Here are some ideas to get you started:
 
 ## My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pxb408&show_icons=true&count_private=true)](https://github.com/pxb408)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbala3&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
