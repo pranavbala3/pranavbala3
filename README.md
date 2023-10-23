@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 -->
 ## Connect with me
 <p>
-<img alt="Git" src="https://img.shields.io/badge/-LinkedIn-#0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranav-balabhadra%2F" />
+<img alt="Git" src="https://img.shields.io/badge/-LinkedIn-#0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranav-balabhadra%2F" />
 </p>
 ## My GitHub Stats
 
