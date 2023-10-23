@@ -3,7 +3,7 @@ I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Comp
 
 ### Skills
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-![Static Badge](https://img.shields.io/badge/Java?style=flat-square&logo=java)
+<img alt="Java" src="https://img.shields.io/badge/Java-11-brightgreen.svg">
 <!--
 **pxb408/pxb408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
