@@ -12,6 +12,7 @@ I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Comp
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-FC6D26?style=flat-square" />
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"" />
 </p>
 
 <!--
