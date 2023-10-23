@@ -18,6 +18,7 @@ I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Comp
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"" />
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white"" />
 <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"" />
+<img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white"" />
 </p>
 
 <!--
