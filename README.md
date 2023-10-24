@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## Connect with me 👯
 <p align="center">
 <a href="https://www.linkedin.com/in/pranav-balabhadra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pxb408@case.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href=mailto:pxb408@case.edu target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## My GitHub Stats 🥇
