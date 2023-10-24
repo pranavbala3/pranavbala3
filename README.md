@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"" />
 </p>
 
-## My Interests 🔥
+## My interests 🔥
 <p align="center">
 <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Artificial Intelligence-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Data Visualization-brown">
 </p>
