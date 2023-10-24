@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Things I code with
+## Things I code with 💻
 <p align="center">
 <img alt="Java" src="https://img.shields.io/badge/-Java-509EE3?style=flat-square&" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-43853D?style=flat-square&logo=python&logoColor=white" />
@@ -37,13 +37,15 @@ Here are some ideas to get you started:
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"" />
 </p>
 
-## My Interests
+## My Interests 🔥
+<p align="center">
 <img src="https://img.shields.io/badge/Data Visualization-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Artificial Intelligence-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta">
+</p>
 
-## Connect with me
+## Connect with me 👯
 <p align="center">
 <a href="https://www.linkedin.com/in/pranav-balabhadra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-## My GitHub Stats
+## My GitHub Stats 🥇
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavbala3&show_icons=true&count_private=true&theme=vision-friendly-dark)](https://github.com/pranavbala3)
