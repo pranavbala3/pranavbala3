@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Computer Science and Biomedical Engineering. 
 
 ### Things I code with
