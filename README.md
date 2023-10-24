@@ -49,4 +49,6 @@ Here are some ideas to get you started:
 </p>
 
 ## My GitHub Stats 🥇
+<p align=center> 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavbala3&show_icons=true&count_private=true&theme=radical)](https://github.com/pranavbala3)
+</p>
