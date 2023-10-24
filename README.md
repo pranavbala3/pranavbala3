@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 </p>
 
 ## My GitHub Stats 🥇
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavbala3&show_icons=true&count_private=true&theme=vision-friendly-dark)](https://github.com/pranavbala3)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavbala3&show_icons=true&count_private=true&theme=radical)](https://github.com/pranavbala3)
