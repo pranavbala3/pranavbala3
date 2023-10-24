@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## My interests 🔥
 <p align="center">
-<img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Artificial Intelligence-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Data Visualization-brown">
+<img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Artificial Intelligence-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Data Visualization-brown"> <img src="https://img.shields.io/badge/Image Processing-orange">
 </p>
 
 ## Connect with me 👯
