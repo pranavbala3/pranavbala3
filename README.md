@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Computer Science and Biomedical Engineering. 
+I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Computer Science and Biomedical Engineering. Welcome to my page!
 
 ### Things I code with
 <p>
