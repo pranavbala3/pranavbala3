@@ -1,4 +1,4 @@
-### Hi there!👋
+# Hi there!👋
 I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Computer Science and Biomedical Engineering. Welcome to my page!
 
 <!--
@@ -39,12 +39,13 @@ Here are some ideas to get you started:
 
 ## My Interests 🔥
 <p align="center">
-<img src="https://img.shields.io/badge/Data Visualization-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Artificial Intelligence-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta">
+<img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Artificial Intelligence-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Data Visualization-brown">
 </p>
 
 ## Connect with me 👯
 <p align="center">
 <a href="https://www.linkedin.com/in/pranav-balabhadra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pxb408@case.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## My GitHub Stats 🥇
