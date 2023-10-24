@@ -1,8 +1,23 @@
-## Hi there 👋
+### Hi there!👋
 I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Computer Science and Biomedical Engineering. Welcome to my page!
 
-### Things I code with
-<p>
+<!--
+**pxb408/pxb408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+## Things I code with
+<p align="center">
 <img alt="Java" src="https://img.shields.io/badge/-Java-509EE3?style=flat-square&" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-43853D?style=flat-square&logo=python&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -22,24 +37,13 @@ I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Comp
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"" />
 </p>
 
-<!--
-**pxb408/pxb408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Interests
+<img src="https://img.shields.io/badge/Data Visualization-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Artificial Intelligence-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Connect with me
-<p>
+## Connect with me
+<p align="center">
 <a href="https://www.linkedin.com/in/pranav-balabhadra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-## My GitHub Stats
 
+## My GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavbala3&show_icons=true&count_private=true&theme=vision-friendly-dark)](https://github.com/pranavbala3)
