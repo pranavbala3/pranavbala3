@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 -->
 ## Connect with me
 <p>
-<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranav-balabhadra%2F" />
-<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm%26source%3Dmailto%26to%3Dpxb408%40case.edu" />
+<a href="https://www.linkedin.com/in/pranav-balabhadra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 ## My GitHub Stats
 
