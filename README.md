@@ -1,5 +1,6 @@
 # Hi there!👋
-I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Computer Science and Biomedical Engineering. Welcome to my page!
+I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Computer Science and Biomedical Engineering. 
+<p align="center"> Welcome to my page! </p>
 
 <!--
 **pxb408/pxb408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
