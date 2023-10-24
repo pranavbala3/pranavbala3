@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 </p>
 
 ## My GitHub Stats 🥇
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbala3&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <p align=center> 
 <img align=center src="https://github-readme-stats.vercel.app/api?username=pranavbala3&show_icons=true&theme=radical">
 </p>
