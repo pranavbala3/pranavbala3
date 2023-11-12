@@ -4,6 +4,7 @@ Welcome to my page!
 
 <!--
 **pxb408/pxb408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+github-readme-stats.vercel.app
 
 Here are some ideas to get you started:
 
@@ -50,4 +51,5 @@ Here are some ideas to get you started:
 </p>
 
 ## My GitHub Stats 🥇
-<img align=center src="https://github-readme-stats.vercel.app/api?username=pranavbala3&show_icons=true&theme=radical">
+
+<img align=center src="https://github-readme-stats-pranavbala3s-projects.vercel.app/api?username=pranavbala3&show_icons=true&theme=radical">
