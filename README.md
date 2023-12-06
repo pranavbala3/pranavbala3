@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 ## My GitHub Stats 🥇
 [![Top Langs](https://github-readme-stats-pranavbala3s-projects.vercel.app/api/top-langs/?username=pranavbala3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<img align=center src="https://github-readme-stats-pranavbala3s-projects.vercel.app/api?username=pranavbala3&show_icons=true&theme=radical">
+<img src="https://github-readme-stats-pranavbala3s-projects.vercel.app/api?username=pranavbala3&show_icons=true&theme=radical">
