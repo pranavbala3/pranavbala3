@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbala3&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavbala3&show_icons=true&theme=great-gatsby" alt="transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavbala3&show_icons=true&theme=transparent" alt="tomodore" />
 
 </div>
 
