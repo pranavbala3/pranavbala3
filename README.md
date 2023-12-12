@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 </p>
 
 ## My GitHub Stats 🥇
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats-pranavbala3s-projects.vercel.app/api/top-langs/?username=pranavbala3&theme=radical" alt="Top Langs" width="48%">
-  <img src="https://github-readme-stats-pranavbala3s-projects.vercel.app/api?username=pranavbala3&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbala3&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ <img src="https://github-readme-stats.vercel.app/api?username=pranavbala3&show_icons=true&theme=great-gatsby" alt="tomondre" />
+<br>
