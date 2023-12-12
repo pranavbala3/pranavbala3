@@ -51,8 +51,12 @@ Here are some ideas to get you started:
 </p>
 
 ## My GitHub Stats 🥇
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbala3&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<div style="display: flex; align-items: center;">
 
- <img src="https://github-readme-stats.vercel.app/api?username=pranavbala3&show_icons=true&theme=great-gatsby" alt="tomondre" />
-<br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbala3&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavbala3&show_icons=true&theme=great-gatsby" alt="transparent" />
+
+</div>
+
