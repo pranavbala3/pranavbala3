@@ -1,6 +1,12 @@
 # Hi there!👋
 I'm Pranav Balabhadra, a junior at Case Western Reserve University studying Computer Science and Biomedical Engineering. 
+
 Welcome to my page!
+
+I’m currently:
+- an AI Python Developer @ Expedient 💻
+- a Machine Learning Researcer @ Shoffstall Lab 🔭 
+- a Teaching Assistant for CSDS 310: Algorithms and ENGR 130: Foundations of Programming and Engineering 👯 
 
 <!--
 **pxb408/pxb408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
