@@ -5,7 +5,7 @@ Welcome to my page!
 
 I’m currently:
 - an AI Python Developer @ Expedient 💻
-- a Machine Learning Researcer @ Shoffstall Lab 🔭 
+- a Machine Learning Researcher @ Shoffstall Lab 🔭 
 - a Teaching Assistant for CSDS 310: Algorithms and ENGR 130: Foundations of Programming and Engineering 👯 
 
 <!--
